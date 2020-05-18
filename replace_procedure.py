@@ -1,3 +1,7 @@
+#Test script to automate testing
+# May 16, 2020  -  Carson Gedeus
+
+import re
 
 def main():
 
